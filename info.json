@@ -255,115 +255,115 @@
             }
           ]
         },
-	    {
-	        "id": "pixelmon:pixelmon:1.12.2",
+	{
+	    "id": "pixelmon:pixelmon:1.12.2",
             "name": "pixelmon-1.12.2",
             "type": "ForgeMod",
             "artifact": {
-		        "size": 384389990,
-	            "MD5": "d48816f73ebe54af218dd1d6a51708b2",
-	            "url": "https://dl.reforged.gg/32nS6KU"
+		 "size": 384389990,
+	         "MD5": "d48816f73ebe54af218dd1d6a51708b2",
+	         "url": "https://dl.reforged.gg/32nS6KU"
           }
         },
-		{
-	        "id": "shaderpack",
+	{
+	    "id": "shaderpack",
             "name": "shaderpack",
             "type": "File",
             "artifact": {
-		        "size": 384389990,
-	            "MD5": "d48816f73ebe54af218dd1d6a51708b2",
-	            "url": "https://dl.reforged.gg/32nS6KU"
-				"path": "shaderpacks/쉐이더팩.zip"
+		  "size": 384389990,
+	          "MD5": "d48816f73ebe54af218dd1d6a51708b2",
+	          "url": "https://dl.reforged.gg/32nS6KU",
+		  "path": "shaderpacks/쉐이더팩.zip"
           }
         },
-		{
-	        "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
+	{
+	    "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
             "name": "Armourers-Workshop",
             "type": "ForgeMod",
             "artifact": {
-		        "size": 2678747,
-	            "MD5": "12954551f39bed840b32fd8be8fddb54",
-	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/Armourers-Workshop.jar"
+	 	  "size": 2678747,
+	          "MD5": "12954551f39bed840b32fd8be8fddb54",
+	          "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/Armourers-Workshop.jar"
           }
         },
-		{
-	        "id": "CustomNPCs:CustomNPCs:1.12.2",
+	{
+	    "id": "CustomNPCs:CustomNPCs:1.12.2",
             "name": "CustomNPCs",
             "type": "ForgeMod",
             "artifact": {
-		        "size": 9956251,
-	            "MD5": "8cc92255f8e1341a2ef40f630f09d53e",
-	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/CustomNPCs.jar"
+		 "size": 9956251,
+	         "MD5": "8cc92255f8e1341a2ef40f630f09d53e",
+	         "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/CustomNPCs.jar"
           }
         },
-		{
-	        "id": "Minecraft-Chromium:Embedded-Framework:1.12.2",
+	{
+	    "id": "Minecraft-Chromium:Embedded-Framework:1.12.2",
             "name": "MinecraftChromiumEmbeddedFramework-1.12.2",
             "type": "ForgeMod",
             "artifact": {
-		        "size": 323311,
-	            "MD5": "dbdb8e026ec019f49ea873c9c2a130b3",
-	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/MinecraftChromiumEmbeddedFramework.jar"
+		 "size": 323311,
+	         "MD5": "dbdb8e026ec019f49ea873c9c2a130b3",
+	         "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/MinecraftChromiumEmbeddedFramework.jar"
           }
         },
-		{
-	        "id": "OptiFine:OptiFine:1.12.2",
+	{
+	    "id": "OptiFine:OptiFine:1.12.2",
             "name": "OptiFine",
             "type": "ForgeMod",
             "artifact": {
-		        "size": 2669107,
-	            "MD5": "54e561e441192cf009803ae95873c5d0",
-	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/OptiFine.jar"
+		 "size": 2669107,
+	         "MD5": "54e561e441192cf009803ae95873c5d0",
+	         "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/OptiFine.jar"
           }
         },
-		{
-	        "id": "SmoothFont:SmoothFont:1.12.2",
+	{
+	    "id": "SmoothFont:SmoothFont:1.12.2",
             "name": "SmoothFont",
             "type": "ForgeMod",
             "artifact": {
-		        "size": 216373,
-	            "MD5": "352fa8ec636e11de196a84374e031ed6",
-	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/SmoothFont.jar"
+		 "size": 216373,
+	         "MD5": "352fa8ec636e11de196a84374e031ed6",
+	         "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/SmoothFont.jar"
           }
         },
-		{
-	        "id": "VariedCommodities:VariedCommodities:1.12.2",
+	{
+	    "id": "VariedCommodities:VariedCommodities:1.12.2",
             "name": "VariedCommodities",
             "type": "ForgeMod",
             "artifact": {
-		        "size": 1552797,
-	            "MD5": "a05b66f1deb86897e0ace3120083a153",
-	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/VariedCommodities.jar"
+		 "size": 1552797,
+	         "MD5": "a05b66f1deb86897e0ace3120083a153",
+	         "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/VariedCommodities.jar"
           }
         },
-		{
-	        "id": "WebDisplaysMod:WebDisplaysMod:1.12.2",
+	{
+	    "id": "WebDisplaysMod:WebDisplaysMod:1.12.2",
             "name": "WebDisplaysMod",
             "type": "ForgeMod",
             "artifact": {
-		        "size": 688747,
-	            "MD5": "a54bcecab7c5c3212fccc31be73dea38",
-	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/WebDisplaysMod.jar"
+		 "size": 688747,
+	         "MD5": "a54bcecab7c5c3212fccc31be73dea38",
+	         "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/WebDisplaysMod.jar"
           }
         },
-		{
-	        "id": "journeymap:journeymap:1.12.2",
+	{
+	    "id": "journeymap:journeymap:1.12.2",
             "name": "journeymap",
             "type": "ForgeMod",
             "artifact": {
-		        "size": 1845450,
-	            "MD5": "e8f1ea79b6a51ed9bb3fe1062f8093a0",
-	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/journeymap.jar"
+		 "size": 1845450,
+	         "MD5": "e8f1ea79b6a51ed9bb3fe1062f8093a0",
+	         "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/journeymap.jar"
           }
         },
-		{
-	        "id": "koreanchatCreo:koreanchatCreo:1.12.2",
+	{
+	    "id": "koreanchatCreo:koreanchatCreo:1.12.2",
             "name": "koreanchatCreo",
             "type": "ForgeMod",
             "artifact": {
-		        "size": 30763,
-	            "MD5": "91492de16021a4f7018eb5d523f45fc2",
-	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/koreanchatCreo.jar"
+		 "size": 30763,
+	         "MD5": "91492de16021a4f7018eb5d523f45fc2",
+	         "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/koreanchatCreo.jar"
           }
         }
       ]
