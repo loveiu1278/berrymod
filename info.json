@@ -266,7 +266,7 @@
           }
         },
 	{
-	    "id": "shaderpack",
+	    "id": "shaderpack:shaderpack:1.12.2",
             "name": "shaderpack",
             "type": "File",
             "artifact": {
