@@ -266,17 +266,6 @@
           }
         },
 	{
-	    "id": "shaderpack:shaderpack:1.12.2",
-            "name": "shaderpack",
-            "type": "File",
-            "artifact": {
-		  "size": 133486,
-	          "MD5": "d48816f73ebe54af218dd1d6a51708b2",
-	          "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/pack/쉐이더팩.zip",
-		  "path": "shaderpacks/쉐이더팩.zip"
-          }
-        },
-	{
 	    "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
             "name": "Armourers-Workshop",
             "type": "ForgeMod",
