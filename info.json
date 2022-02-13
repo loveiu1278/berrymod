@@ -260,7 +260,7 @@
             "name": "pixelmon-1.12.2",
             "type": "ForgeMod",
             "artifact": {
-		 "size": 382075552,
+		 "size": 384389990,
 	         "MD5": "096cc0a5beb5ba8df5dda99e3d6d8f8e",
 	         "url": "https://dl.reforged.gg/32nS6KU"
           }
@@ -270,9 +270,9 @@
             "name": "shaderpack",
             "type": "File",
             "artifact": {
-		  "size": 384389990,
+		  "size": 133486,
 	          "MD5": "d48816f73ebe54af218dd1d6a51708b2",
-	          "url": "https://dl.reforged.gg/32nS6KU",
+	          "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/pack/쉐이더팩.zip",
 		  "path": "shaderpacks/쉐이더팩.zip"
           }
         },
