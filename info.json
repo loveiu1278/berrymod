@@ -356,13 +356,13 @@
           }
         },
 	    {
-	        "id": "koreanchatCreo:koreanchatCreo:1.12.2",
+	        "id": "shaderpacks:shaderpacks:1.12.2",
             "name": "쉐이더팩",
             "type": "File",
             "artifact": {
 		        "size": 133486,
 	            "MD5": "ba346f42fbcf2c3454ff7d0d115a7eaa",
-		    "path": "shaderpacks",
+	            "path": "shaderpacks",
 	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/pack/쉐이더팩.zip"
           }
         }
