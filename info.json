@@ -260,9 +260,9 @@
             "name": "pixelmon-1.12.2",
             "type": "ForgeMod",
             "artifact": {
-		       "size": 382699361,
-	           "MD5": "7454b10f54c16dc3193af8ac26e21ede",
-	           "url": "https://www.dropbox.com/s/exzjmrsez022eqv/Pixelmon-1.12.2-8.3.7-universal.jar?dl=1"
+		       "size": 386205079,
+	           "MD5": "b231e74eadcd4c3bd012e094e3075944",
+	           "url": "https://www.dropbox.com/s/r6v03h5u09wetad/Pixelmon-1.12.2-8.3.8-universal.jar?dl=1"
           }
         },
 	    {
@@ -353,6 +353,17 @@
 		        "size": 30763,
 	            "MD5": "91492de16021a4f7018eb5d523f45fc2",
 	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/koreanchatCreo.jar"
+          }
+        },
+	    {
+	        "id": "koreanchatCreo:koreanchatCreo:1.12.2",
+            "name": "쉐이더팩",
+            "type": "File",
+            "artifact": {
+		        "size": 133486,
+	            "MD5": "ba346f42fbcf2c3454ff7d0d115a7eaa",
+		    "path": "shaderpacks",
+	            "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/pack/쉐이더팩.zip"
           }
         }
       ]
