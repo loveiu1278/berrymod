@@ -316,16 +316,6 @@
           }
         },
         {
-          "id": "com.pixelmonmod:pixelmon:1.12.2@jar",
-          "name": "Pixelmon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 386205079,
-            "url": "https://www.dropbox.com/s/r6v03h5u09wetad/Pixelmon-1.12.2-8.3.8-universal.jar?dl=1",
-            "MD5": "b231e74eadcd4c3bd012e094e3075944"
-          }
-        },
-        {
           "id": "noppes.vc:variedcommodities:1.0@jar",
           "name": "Varied Commodities",
           "type": "ForgeMod",
