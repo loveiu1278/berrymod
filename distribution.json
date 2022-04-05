@@ -13,10 +13,10 @@
       "description": "버전 : 1.12.2",
       "icon": "https://www.dropbox.com/s/jjzhtyieyalo59p/%EC%84%9C%EB%B2%84%20%EC%95%84%EC%9D%B4%EC%BD%98.png?dl=1",
       "version": "1.0.0",
-      "address": "berryserver.kro.kr",
+      "address": "localhost",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "Production",
+        "shortId": "포켓몬 서버",
         "largeImageText": "포켓몬 베리서버",
         "largeImageKey": "server-prod"
       },
