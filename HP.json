@@ -2,13 +2,13 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "961210620907225090",
-    "smallImageText": "HP 서버",
+    "clientId": "961922033426501634",
+    "smallImageText": "BR 서버",
     "smallImageKey": "seal-circle"
   },
   "servers": [
     {
-      "id": "HP",
+      "id": "BR",
       "name": "포켓몬 서버",
       "description": "버전 : 1.12.2",
       "icon": "https://www.dropbox.com/s/jjzhtyieyalo59p/%EC%84%9C%EB%B2%84%20%EC%95%84%EC%9D%B4%EC%BD%98.png?dl=1",
